@@ -18,3 +18,6 @@ https://www.hackerearth.com/challenge/competitive/machine-learning-challenge-6-1
 4. seaborn
 5. xgboost
 6. imblearn
+
+# Results:
+Leaderboard score: 0.77958
